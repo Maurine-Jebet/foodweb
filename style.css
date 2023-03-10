@@ -1,0 +1,201 @@
+@media (min-width: 600px) and (max-width: 768px) {
+    body {
+      background-color: #de3163;
+    }
+  }
+body{
+    background: lemonchiffon;
+}
+
+#lists{
+    margin-left: 20px;
+    display: flex;
+    gap: 120px;
+}
+
+
+#food{
+    font-style: oblique;
+    color: yellow;
+}
+
+
+#hom{
+    color: yellow;
+}
+.EnjoyB{
+    margin:10% ;
+    margin-left: 10%;
+    background: lemonchiffon;
+}
+
+
+button{
+    border-radius: 30%;
+    padding: 15px;
+    background-color: yellow;
+    padding: 3%;
+    margin: 3%;
+    border-color: yellow;
+}
+#hen{
+    float: right;
+    width: 300px;
+}
+
+
+.page2{
+    display: flex;
+    width: 50px;
+    gap: 30%;
+    
+}
+
+
+.sentence{
+    margin-left: 45%;
+}
+
+
+#store{
+    font-style: oblique;
+}
+
+
+.page3{
+    margin: 30px;
+    margin-top: 10%;
+    
+}
+
+
+#food{
+    float: right;
+
+    width: 300px;
+    margin-bottom:100px;
+}
+
+
+.page4{
+margin-left: 40%;
+margin-top: 20%;
+
+
+
+}
+
+
+#sams{
+    margin-left:-5%;
+    display: flex;
+    gap: 5%;
+    
+}
+.sam1{
+    width: 800px;
+}
+
+
+.service{
+    margin-left: 45%;
+    margin-top: 15%;
+}
+
+
+.signs{
+    gap: 20%;
+    margin-left: 15%;
+    display: flex;
+}
+
+
+.sent{
+    
+    margin-right: 35%;
+    float: right;
+    margin-top: 15%;
+    
+}
+
+
+.people{
+    float: left;
+    display: flex;
+    gap: 10%;
+    margin-left: 25%;
+}
+
+
+.words{
+    margin-top: 20%;
+    margin-left: 30%;
+    background: antiquewhite;
+
+}
+.icons{
+    margin-top: 10%;
+    margin-left: 50%;
+}
+
+
+#phone{
+    display: flex;
+    float:left;
+    width: 400px;
+    
+    
+}
+
+
+.words button{
+    background-color: black;
+    color: white;
+}
+
+
+.subscribe{
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+
+.button{
+    margin-left: 70%;
+    margin-bottom: 5%;
+    display: flex;
+}
+
+
+.footer{
+    display: flex;
+    gap: 12%;
+    background-color: black;
+    color: white;
+}
+.footer2{
+    margin-left:5% ;
+}
+
+
+.footer3{
+    margin-left: 6%;
+}
+
+
+
+.footer4{
+    margin-left: 10%;
+}
+
+
+.footer5{
+    display: flex;
+    gap: 10%;
+    background-color: yellow;
+}
+
+
+
+
+
